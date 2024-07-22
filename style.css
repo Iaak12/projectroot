@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+  background-color: #343a40;
+  color: white;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+}
